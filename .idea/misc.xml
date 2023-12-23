@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prajw/CollegeConnect/FS2 - Copy/FS2 - Copy/FS2/app/src/main/res/layout/activity_login.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/prajw/CollegeConnect/FS2 - Copy/FS2 - Copy/FS2/app/src/main/res/layout/activity_login1.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/prajw/CollegeConnect/FS2 - Copy/FS2 - Copy/FS2/app/src/main/res/layout/activity_main3.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/prajw/CollegeConnect/FS2 - Copy/FS2 - Copy/FS2/app/src/main/res/layout/activity_main_menu.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/prajw/CollegeConnect/FS2 - Copy/FS2 - Copy/FS2/app/src/main/res/layout/activity_main_menu1.xml" value="0.6" />
+        <entry key="..\:/Users/prajw/CollegeConnect/FS2 - Copy/FS2 - Copy/FS2/app/src/main/res/layout/activity_register1.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/prajw/CollegeConnect/FS2 - Copy/FS2 - Copy/FS2/app/src/main/res/layout/activity_register2.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/prajw/CollegeConnect/FS2 - Copy/FS2 - Copy/FS2/app/src/main/res/layout/activity_reset_password.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+</project>
